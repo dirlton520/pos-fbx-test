@@ -1,0 +1,202 @@
+/************theme fonts********************/
+/***********************theme colors*****************************/
+/*****************theme parametres*******************/
+/*sidebar-parametres*/
+/************theme fonts********************/
+/***********************theme colors*****************************/
+/****************************************************
+                        Tabs
+****************************************************/
+.piluku-tabs {
+  border-bottom: 1px solid #e9ecf2;
+}
+.piluku-tabs > li a {
+  border-radius: 0px;
+  background-color: #f2f4f7;
+  color: #555555;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  letter-spacing: 0.25px;
+  text-transform: capitalize;
+}
+.piluku-tabs > li a:hover,
+.piluku-tabs > li a:focus,
+.piluku-tabs > li a:active {
+  background-color: #f2f4f7;
+  border: 1px solid transparent;
+  color: #489ee7;
+}
+.piluku-tabs > li.active a {
+  border: 1px solid #e9ecf2;
+  border-bottom: 1px solid transparent;
+  border-radius: 0px;
+  color: #555555;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  text-transform: capitalize;
+}
+.piluku-tabs > li.active a:hover,
+.piluku-tabs > li.active a:focus,
+.piluku-tabs > li.active a:active {
+  border: 1px solid #d7dce5;
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.right-tabs li {
+  float: right;
+}
+.piluku-tabs.nav-justified li {
+  border-bottom: 1px solid #e9ecf2;
+}
+.piluku-tabs.nav-justified li a {
+  border-radius: 0px;
+  border-bottom: 1px solid transparent;
+  color: #555555;
+  margin-left: 5px;
+}
+.piluku-tabs.nav-justified li a:hover,
+.piluku-tabs.nav-justified li a:focus {
+  border: 1px solid transparent;
+  color: #489ee7;
+}
+.piluku-tabs.nav-justified li a.active {
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.nav-justified li.active {
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.nav-justified li.active a {
+  color: #555555;
+  border: 1px solid #e9ecf2;
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.nav-justified li.active a:hover,
+.piluku-tabs.nav-justified li.active a:focus,
+.piluku-tabs.nav-justified li.active a:active {
+  border: 1px solid #d7dce5;
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.piluku-noborder {
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.piluku-noborder > li a {
+  border-radius: 0px;
+  background-color: #f2f4f7;
+}
+.piluku-tabs.piluku-noborder > li a:hover,
+.piluku-tabs.piluku-noborder > li a:focus,
+.piluku-tabs.piluku-noborder > li a:active {
+  background-color: #f2f4f7;
+  border: 1px solid transparent;
+  color: #489ee7;
+}
+.piluku-tabs.piluku-noborder > li.active a {
+  border: 1px solid transparent;
+  border-radius: 0px;
+  background-color: #d7dce5;
+  color: #555555;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  text-transform: capitalize;
+}
+.piluku-tabs.piluku-noborder > li.active a:hover,
+.piluku-tabs.piluku-noborder > li.active a:focus,
+.piluku-tabs.piluku-noborder > li.active a:active {
+  border: 1px solid transparent;
+}
+.piluku-tabs.piluku-noborder.nav-justified li {
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.piluku-vertical-tabs {
+  display: block;
+  border-bottom: 1px solid transparent;
+}
+.piluku-tabs.piluku-vertical-tabs > li {
+  width: 100%;
+  margin-bottom: 5px;
+}
+.piluku-tabs.piluku-vertical-tabs > li.active a {
+  border: 1px solid #e9ecf2;
+  border-right: 1px solid transparent;
+}
+.piluku-tabs.piluku-vertical-tabs > li.active a:hover,
+.piluku-tabs.piluku-vertical-tabs > li.active a:focus {
+  border: 1px solid #d7dce5;
+  border-right: 1px solid transparent;
+}
+.piluku-tabs.piluku-vertical-tabs > li.active a.active {
+  border-right: 1px solid transparent;
+}
+.piluku-tabs.piluku-vertical-tabs-right > li.active a {
+  border: 1px solid #e9ecf2;
+  border-left: 1px solid transparent;
+}
+.piluku-tabs.piluku-vertical-tabs-right > li.active a:hover,
+.piluku-tabs.piluku-vertical-tabs-right > li.active a:focus {
+  border: 1px solid #d7dce5;
+  border-left: 1px solid transparent;
+}
+.piluku-tabs.piluku-vertical-tabs-right > li.active a.active {
+  border-left: 1px solid transparent;
+}
+.piluku-tab-content > .tab-pane {
+  color: #000;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.25px;
+  line-height: 24px;
+  padding-top: 14px;
+}
+.piluku-tab-content.vertical-content > .tab-pane {
+  padding-top: 0px;
+}
+/****************************************************
+                        AccordionsTabs
+****************************************************/
+.piluku-accordion .panel {
+  border-radius: 0px;
+  box-shadow: none;
+  border: 1px solid #e9ecf2;
+}
+.piluku-accordion .panel .panel-heading {
+  background-color: #f2f4f7;
+  border-radius: 0px;
+}
+.piluku-accordion .panel .panel-heading .panel-title a {
+  color: #555555;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  text-transform: capitalize;
+  text-decoration: none;
+  display: block;
+}
+.piluku-accordion .panel .panel-body {
+  color: #000;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.25px;
+  line-height: 24px;
+  border-top: 1px solid #e9ecf2 !important;
+}
+.piluku-accordion-two .panel {
+  margin-top: 0px !important;
+  border-top: 1px solid transparent !important;
+}
+.piluku-accordion-two .panel .panel-heading {
+  background-color: transparent;
+}
+.piluku-accordion-two .panel .panel-body {
+  border-top: 1px solid transparent !important;
+  padding-top: 0px;
+}
+.piluku-accordion-two .panel:first-child {
+  border-top: 1px solid #e9ecf2 !important;
+}

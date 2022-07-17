@@ -1,0 +1,259 @@
+END USER LICENSE AGREEMENT FOR PHP POINT OF SALE
+
+This End-User License Agreement ("EULA" ) is a legal agreement between you (either 
+an individual or a legal entity) and PHP Point of Sale, LLC (the "Company") for the 
+point of sale system accompanying this EULA, which includes computer software and 
+may include associated media, printed materials, online or electronic documentation, and 
+Internet-based services (the "Software"). Any amendment or addendum to this EULA 
+may accompany the Software and in such case, such amendment or addendum shall be an 
+integral part of this EULA. YOU AGREE TO BE BOUND BY THE TERMS AND 
+CONDITIONS OF THIS EULA, BY DOWNLOADING, INSTALLING, COPYING, 
+OR OTHERWISE USING THE SOFTWARE. IF YOU DO NOT AGREE TO THE 
+TERMS OR CONDITIONS IN THIS EULA, DO NOT DOWNLOAD, INSTALL, 
+COPY, OR USE THIS SOFTWARE.
+
+1.	NON-EXCLUSIVE LICENSE ONLY.  The Software is protected by copyright 
+laws and international copyright treaties, as well as other intellectual property laws 
+and treaties. The Software is licensed to you for use only in accordance with the terms 
+and conditions of this EULA, and not sold in any sense whatsoever. Company and its 
+suppliers shall retain title and all ownership rights to the Software and this EULA 
+shall not be construed in any manner as transferring any rights of ownership of the 
+Software or to any feature or information contained therein, except the limited rights 
+to use as specifically stated herein.
+
+2.	GRANT OF LICENSE. Company hereby grants you ("Licensee") a limited, non-
+exclusive, non-transferrable, non-sub licensable, royalty-free license to make copies 
+of the Software as needed for the agreed upon purpose, install the Software on the 
+CPUs of one (1) computer owned by Licensee and stationed on Licensee's premises, 
+and use the Software solely for the purpose of evaluating or operating the payment 
+processing devices supplied by Company (the "Purpose").
+
+	Licensee may have purchased this License through one of two methods: (i) Download 
+- Licensee is provided a download link which is valid for one year to download 
+periodic updates of the Software; or (ii) Hosted - Licensee pays for hosting and 
+maintenance on Company's server according to fee schedule provided by the 
+Company.  This EULA shall apply to either method.
+
+3.	LIMITATIONS.  The License granted under Section 2 of this EULA shall be limited 
+by the following:
+
+	(A)	Licensee may modify, reverse engineer, decompile, or disassemble the 
+Software only at Licensee's own risk.  COMPANY SHALL NOT BE 
+LIABLE FOR ANY DAMAGE TO THE SOFTWARE OR LICENSEE'S 
+EQUIPMENT, SOFTWARE, HARDWARE OR OTHER ASSETS DUE TO 
+ANY ALTERATION OF THE SOFTWARE.
+
+	(B)	Licensee may not transfer, sublicense, rent, lease or lend the Software, or 
+providing commercial hosting services in connection with the Software. 
+Where the computers installed with the Software is transferred, rented, leased 
+or lent or passed for possession by any person other than Licensee, Licensee 
+must completely delete the Software from such computers prior to such 
+transfer, rental, lease, lending or passing for possession.
+
+	(C)	Without prejudice to any other rights, Company may terminate this EULA if 
+Licensee fails to comply with any terms or conditions of this EULA. In such 
+event, Licensee must destroy all copies of the Software and all of its 
+component parts upon receipt of a notice of termination by Company and 
+provide a certificate of destruction to such effect to Company forthwith within 
+10 days.
+
+	(D)	Licensee agrees that the Software is owned by Company and/or its suppliers 
+and all rights not expressly granted herein are reserved by Company and/or its 
+suppliers, as applicable, and undertakes not to challenge or assist any person 
+to challenge such rights in any manner.
+
+	(E)	You agree that Company and its affiliates may collect and use technical 
+information gathered as part of the product support services provided to you, 
+if any, related to the Software. Company or its affiliates or suppliers may use 
+this information solely to improve their products or to provide customized 
+services or technologies to you and will not disclose this information in any 
+form that personally identifies you.
+
+4.	PRODUCT UPDATES AND MAINTENANCE. Licensee understands and 
+acknowledges that Company may provide updates or maintenance to the Software 
+from time to time but Company shall have no obligation to provide any updates or 
+maintenance to Licensee in relation to the Software licensed to use under this EULA. 
+In case that Company provides any update or maintenance to the Software, this 
+EULA shall automatically apply to such update or maintenance, unless Company 
+provides other terms along with such update or maintenance. 
+
+5.	FURTHER USE RESTRICTION. Licensee acknowledges that use of the Software 
+for purposes such as Competitor Evaluation, Reverse Engineering, Decompilation, 
+and Disassembly is a violation of this EULA and Licensee agrees that such use 
+constitutes a blatant and flagrant violation and fundamental breach of this EULA and 
+will be subject to any and all remedies and/or penalties available to Company and/or 
+its supplier(s) under the applicable law.
+
+6.	CONFIDENTIALITY. 
+
+	(A)	Licensee understands that the Software contains confidential, proprietary or 
+trade secret information (together "Confidential Information") of Company 
+and/or its suppliers, and shall be maintained in strictest confidentiality. 
+Licensee agrees that the confidentiality obligations, including without 
+limitation the following, are an essential part of this EULA and any 
+unauthorized disclosure by Licensee constitutes a fundamental breach to this 
+EULA:
+		
+		(i) 	not use the Confidential Information disclosed by Company for any 
+purposes other than the specified Purpose;
+
+		(ii) 	protect Company's Confidential Information in the same manner and 
+with the same degree of care, but not less than a reasonable degree of 
+care, against unauthorized use, dissemination, publication or disclosure, 
+as Licensee uses or protects its own confidential or proprietary 
+information of a like nature;
+		
+		(iii) 	limit the use, circulation of and access to Company's Confidential 
+Information to Licensee's directors, officers and employees who have a 
+need to know in connection with the Purpose, are under binding 
+obligations of confidentiality no less restrictive than those of this EULA, 
+and have been notified that such information is Confidential Information 
+for the Purpose, and Licensee shall be held liable if such persons do not 
+adhere to such requirements;
+
+		(iv) 	not copy any of Company's Confidential Information except as 
+reasonably required for the specified Purpose; 
+
+		(v) 	reproduce Company's proprietary rights notices on any such authorized 
+copies, in the same manner in which such notices were set forth in or on 
+the original;
+
+		(vi)	not reverse engineer, disassemble or decompile any prototype, software 
+or other tangible object that embody Company's Confidential 
+Information; and
+
+		(vii)	notify Company in writing immediately upon the occurrence of any 
+unauthorized release, disclosure or other breach or upon presence of 
+threat of such occurrence.
+
+(B)	Licensee understands and acknowledges that disclosure or use of the Software 
+except as authorized above will result in irreparable harm to Company and/or 
+its suppliers and that monetary damages may be inadequate to compensate 
+Company and/or its suppliers for such breach.  Accordingly, Licensee agrees 
+that Company will, in addition to any other remedies available to it at law or 
+in equity, be entitled to injunctive reliefs to enforce the terms of this 
+Agreement.
+
+7.	COPYRIGHT. All title, copyrights and other intellectual property rights in and to 
+the Software (including but not limited to any images, photographs, animations, 
+video, audio, music, text, and applets incorporated into the Software), the 
+accompanying printed materials, and any copies of the Software are owned by 
+Company and/or its suppliers. The Software is protected by copyright laws, other 
+intellectual property laws and international treaty provisions. Therefore, Licensee 
+must treat the Software like any other copyrighted material except that Licensee may 
+install the Software on authorized computers provided Licensee keep the original 
+solely for backup or archival purposes only. License may not copy any printed 
+materials accompanying the Software without express authorization in this EULA or 
+prior written permission of Company.
+
+8.	EXPORT RESTRICTIONS.	Licensee acknowledges that the Software licensed 
+for use hereunder are subject to the export control laws and regulations of the U.S.A., 
+and any amendments thereof.  Licensee confirms that with respect to the Software, 
+Licensee will not export or re-export them, directly or indirectly, either to (i) any 
+countries that are subject to U.S.A export restrictions (currently including, but not 
+necessarily limited to, Cuba, the Federal Republic of Yugoslavia (Serbia and 
+Montenegro), Iran, Iraq, Libya, North Korea, South Africa (military and police 
+entities), Syria, and Vietnam); (ii) any end user who Licensee knows or has reason to 
+know will utilize them in the design, development or production of nuclear, chemical 
+or biological weapons; or (iii) any end user who has been prohibited from 
+participating in the U.S.A. export transactions by any federal agency of the U.S.A. 
+government. Licensee further acknowledges that the Software may include technical 
+data subject to export and re-export restrictions imposed by the laws of the U.S.A.
+
+9.	DISCLAIMER OF WARRANTY. THE SOFTWARE IS PROVIDED "AS IS" 
+AND "WITH ALL FAULTS", WITHOUT WARRANTY OF ANY KIND. TO THE 
+MAXIMUM EXTENT PERMITTED BY THE APPLICABLE LAW, COMPANY 
+FURTHER DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, 
+STATUTORY, OR BY ESTOPPEL, INCLUDING WITHOUT LIMITATION ANY 
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, CORRESPONDENCE TO DESCRIPTION OR 
+SAMPLE, NO DEFECT IN WORKMANSHIP OR MATERIAL, LACK OF 
+VIRUSES, AND LACK OF NEGLIGENCE. ALSO, THERE IS NO WARRANTY 
+TO TITLE, QUIET ENJOYMENT, QUIET POSSESSION, AND NON-
+INFRINGEMENT WITH REGARD TO THE SOFTWARE. THE ENTIRE RISK 
+ARISING OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE AND 
+DOCUMENTATION REMAINS WITH LICENSEE. NO ACTIVITY, SERVICE, 
+ADVERTISING, PACKAGING, STATEMENT OR COMMUNICATION BY 
+COMPANY OR ITS SUPPLIER(S)IN RELATION TO THE SOFTWARE, EVEN IF 
+PRESENTED IN A FORM OF PRODUCT WARRANTY, WHETHER PRIOR TO, 
+ON OR POST THE DATE OF THIS EULA, SHALL BE INTERPRETED AS AN 
+ANNULMENT, IMPAIRMENT OR MODIFICATION TO THIS DISCLAIMER.
+
+10.	EXCLUSION OF CLAIMS/REMEDIES. TO THE MAXIMUM EXTENT 
+PERMITTED BY THE APPLICABLE LAW, IN NO EVENT SHALL COMPANY 
+AND/OR ITS SUPPLIER(S) BE LIABLE FOR ANY SPECIAL, INCIDENTAL, 
+PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER 
+(INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR 
+CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS 
+INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR 
+FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF 
+REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER 
+PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN 
+ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE 
+SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT OR 
+OTHER SERVICES, INFORMATON, SOFTWARE, AND RELATED CONTENT 
+THROUGH THE SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF 
+THE SOFTWARE, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY 
+PROVISION OF THIS EULA, EVEN IN THE EVENT OF THE FAULT, TORT 
+(INCLUDING NEGLIGENCE), MISREPRESENTATION, STRICT LIABILITY, 
+BREACH OF CONTRACT OR BREACH OF WARRANTY OF COMPANY 
+AND/OR ANY OF ITS SUPPLIERS, AND EVEN IF COMPANY AND/OR ANY 
+OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES. YOU UNDERSTAND AND AGREE THAT YOU HAVE WAIVED 
+ALL RIGHTS TO ALL REMEDIES, WHETHER IN LAW OR IN EQUITY, 
+EXCEPT IN CASE OF A FUNDAMENTAL BREACH BY COMPANY AND/OR 
+ANY OF ITS SUPPLIERS, YOU HAVE THE EXCLUSIVE AND SOLE REMEDY 
+TO REQUEST FOR A NEW COPY OF THE SOFTWARE, WHICH COMPANY 
+HAS THE SOLE DISCRETION TO DETERMINE WHETHER TO SATISFY.
+
+11.	GOVERNING LAW AND DISPUTE SETTLEMENT. This EULA shall be 
+governed by and construed in accordance with the laws of the State of New York. In 
+case of any dispute arising out of or in connection with this EULA, you have 
+consented to the exclusive jurisdiction of the federal and state courts sitting in the 
+county covering Monroe County, New York.
+
+Any dispute, claim or controversy arising out of or relating to this Agreement or the 
+breach, termination, enforcement, interpretation or validity thereof, including the 
+determination of the scope or applicability of this agreement to arbitrate, shall be 
+determined by final and binding arbitration in New York, United States of America 
+before one arbitrator. The arbitration shall be administered pursuant to its streamlined 
+Arbitration Rules and Procedures. The language to be used in the arbitral proceedings 
+will be English.  Judgment on the award may be entered in any court having 
+jurisdiction and will be binding. This clause shall not preclude parties from seeking 
+provisional remedies in aid of arbitration from a court of appropriate jurisdiction.  
+The cost of arbitration shall be borne equally by the parties.  In the event of a conflict 
+or inconsistency between the rules and procedures of the arbitration administrator and 
+this Agreement, this Section shall govern.
+
+12.	SEVERABILITY. Should any provision of this Agreement be held to be void, 
+invalid or inoperative by any court, arbitration panel or other tribunal, the remaining 
+provisions of this Agreement shall not be affected and shall continue in effect and the 
+invalid provisions shall be deemed modified to the least degree necessary to remedy 
+such invalidity.
+
+13.	ATTORNEYS' FEES.  Should either party to this Agreement institute any action, 
+arbitration, or proceeding, for injunctive relief, to enforce this Agreement or any 
+provision hereof, or for damages by reason of any alleged breach of this Agreement, 
+otherwise arising under this Agreement, or for a declaration of rights hereunder, the 
+party initiating any such action or proceeding irrevocably and unconditionally agrees 
+to pay all the other party costs and expenses, including, without limitation, reasonable 
+attorney's fees, incurred by such arbitration, action or proceeding.
+
+14.	MISCELLANEOUS. This EULA (including any of its addendums or amendments) 
+constitutes the entire agreement between you and Company relating to the Software 
+and the support or maintenance services therein (if any), and shall replace and 
+supersede all prior or contemporaneous oral or written communications, proposals 
+and representations with respect to the Software or any other subject matter covered 
+by this EULA. To the extent the terms of any Company policies or programs for 
+support services conflict with the terms of this EULA, the terms of this EULA shall 
+control. If any provision of this EULA is held to be void, invalid, unenforceable or 
+illegal, the other provisions shall continue in full force and effect. This EULA may be 
+modified only in writing. No delay in enforcing a right or remedy under this EULA 
+shall be deemed to be a waiver. You cannot transfer or assign this EULA or any right 
+or obligation herein to any person without prior written consent from Company.
+
+Should you have any questions concerning this EULA, or if you desire to contact 
+PHP Point of Sale for any reason, please contact admin@phppointofsale.com.
+
+
+

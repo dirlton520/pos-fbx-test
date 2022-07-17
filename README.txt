@@ -1,0 +1,3 @@
+Documentation
+-------------------------
+Go to https://support.phppointofsale.com/ to learn more about the system and read documentation

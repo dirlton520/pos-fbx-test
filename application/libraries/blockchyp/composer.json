@@ -1,0 +1,5 @@
+{
+    "require": {
+        "blockchyp/blockchyp-php": "^2.9"
+    }
+}

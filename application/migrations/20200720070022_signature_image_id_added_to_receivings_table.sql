@@ -1,0 +1,2 @@
+-- signature_image_id_added_to_receivings_table --
+ALTER TABLE `phppos_receivings` ADD COLUMN `signature_image_id` INT(10) NULL AFTER `shipping_cost`, ADD FOREIGN KEY (`signature_image_id`) REFERENCES `phppos_app_files`(`file_id`); 

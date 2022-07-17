@@ -1,0 +1,1 @@
+ALTER TABLE `phppos_item_variations` ADD `bitrix_parent_product_id` INT(10) NULL AFTER `item_id`, ADD `bitrix_child_product_id` INT(10) NULL AFTER `bitrix_parent_product_id`; 

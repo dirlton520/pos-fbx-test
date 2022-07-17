@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "02b7c6bc21a8b475e913db5b1e840230",
+    "packages": [
+        {
+            "name": "blockchyp/blockchyp-php",
+            "version": "v2.9.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/blockchyp/blockchyp-php.git",
+                "reference": "87dc59268960080fbdb223ad3cd9d864f884fc68"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/blockchyp/blockchyp-php/zipball/87dc59268960080fbdb223ad3cd9d864f884fc68",
+                "reference": "87dc59268960080fbdb223ad3cd9d864f884fc68",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.6.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BlockChyp\\": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "BlockChyp PHP SDK",
+            "homepage": "https://www.blockchyp.com/",
+            "time": "2021-09-09T19:27:21+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

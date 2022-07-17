@@ -1,0 +1,2 @@
+-- item_number_quantity_unit --
+ALTER TABLE `phppos_items_quantity_units` ADD COLUMN quantity_unit_item_number VARCHAR(255) NULL DEFAULT NULL,ADD UNIQUE KEY `quantity_unit_item_number` (`quantity_unit_item_number`);

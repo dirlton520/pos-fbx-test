@@ -1,0 +1,133 @@
+/************theme fonts********************/
+/***********************theme colors*****************************/
+/*****************theme parametres*******************/
+/*sidebar-parametres*/
+/************theme fonts********************/
+/***********************theme colors*****************************/
+.left-bar {
+  background-color: #373942;
+}
+.left-bar .menu-parent > li a {
+  color: #969AA7;
+}
+.left-bar .menu-parent > li a i {
+  color: #ADAFB9;
+}
+.left-bar .menu-parent > li:hover,
+.left-bar .menu-parent > li.active {
+  background-color: #202126;
+  border-left: 4px solid #489ee7;
+  -webkit-transition: all 0.1s ease-out;
+}
+.left-bar .menu-parent > li:hover.home,
+.left-bar .menu-parent > li.active.home {
+  border-left: 4px solid #489ee7;
+}
+.left-bar .menu-parent > li:hover.customers,
+.left-bar .menu-parent > li.active.customers {
+  border-left: 4px solid #6fd64b;
+}
+.left-bar .menu-parent > li:hover.items,
+.left-bar .menu-parent > li.active.items {
+  border-left: 4px solid #fb5d5d;
+}
+.left-bar .menu-parent > li:hover.price_rules,
+.left-bar .menu-parent > li.active.price_rules {
+  border-left: 4px solid #9244CC;
+}
+.left-bar .menu-parent > li:hover.item_kits,
+.left-bar .menu-parent > li.active.item_kits {
+  border-left: 4px solid #f7941d;
+}
+.left-bar .menu-parent > li:hover.suppliers,
+.left-bar .menu-parent > li.active.suppliers {
+  border-left: 4px solid #489ee7;
+}
+.left-bar .menu-parent > li:hover.reports,
+.left-bar .menu-parent > li.active.reports {
+  border-left: 4px solid #f7941d;
+}
+.left-bar .menu-parent > li:hover.receivings,
+.left-bar .menu-parent > li.active.receivings {
+  border-left: 4px solid #fb5d5d;
+}
+.left-bar .menu-parent > li:hover.sales,
+.left-bar .menu-parent > li.active.sales {
+  border-left: 4px solid #6fd64b;
+}
+.left-bar .menu-parent > li:hover.deliveries,
+.left-bar .menu-parent > li.active.deliveries {
+  border-left: 4px solid #9244CC;
+}
+.left-bar .menu-parent > li:hover.expenses,
+.left-bar .menu-parent > li.active.expenses {
+  border-left: 4px solid #489ee7;
+}
+.left-bar .menu-parent > li:hover.employees,
+.left-bar .menu-parent > li.active.employees {
+  border-left: 4px solid #6fd64b;
+}
+.left-bar .menu-parent > li:hover.giftcards,
+.left-bar .menu-parent > li.active.giftcards {
+  border-left: 4px solid #fb5d5d;
+}
+.left-bar .menu-parent > li:hover.config,
+.left-bar .menu-parent > li.active.config {
+  border-left: 4px solid #f7941d;
+}
+.left-bar .menu-parent > li:hover.locations,
+.left-bar .menu-parent > li.active.locations {
+  border-left: 4px solid #9244CC;
+}
+.left-bar .menu-parent > li:hover.messages,
+.left-bar .menu-parent > li.active.messages {
+  border-left: 4px solid #489ee7;
+}
+.left-bar .menu-parent > li:hover.timeclocks,
+.left-bar .menu-parent > li.active.timeclocks {
+  border-left: 4px solid #489ee7;
+}
+.left-bar .menu-parent > li:hover a,
+.left-bar .menu-parent > li.active a,
+.left-bar .menu-parent > li:hover i,
+.left-bar .menu-parent > li.active i {
+  color: white !important;
+}
+/*************************
+  Top Navbar colors  *****/
+.top-bar .navbar-default .navbar-nav > .open > a,
+.top-bar .navbar-default .navbar-nav > .open > a:focus,
+.top-bar .navbar-default .navbar-nav > .open > a:hover {
+  color: #255CB3;
+}
+.top-bar {
+  background-color: #489ee7;
+}
+.navbar-breadcrumb > a {
+  color: white !important;
+}
+.top-bar .navbar-default {
+  margin-left: -1px;
+  border-bottom-width: 0px;
+}
+.top-bar .navbar-default .navbar-right.navbar-nav > li > a {
+  background-color: transparent !important;
+  color: white;
+}
+.top-bar .top-elements .info-number.cart {
+  background-color: white;
+  color: #489ee7;
+}
+.left-bar .menu-parent > li,
+.side-bar .menu-parent > li {
+  display: block;
+  border-bottom: 1px solid #373942;
+}
+@media only screen and (max-width: 767px) {
+  .top-bar .navbar-nav {
+    background-color: #489ee7;
+  }
+}
+.menu-bar-mobile .ti-menu {
+  color: #fff;
+}

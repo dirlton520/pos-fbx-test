@@ -1,0 +1,26 @@
+
+ALTER TABLE  `phppos_sales` ADD  `deleted` INT( 1 ) NOT NULL DEFAULT  '0';
+ALTER TABLE  `phppos_items` ADD INDEX (  `name` );
+ALTER TABLE  `phppos_items` ADD INDEX (  `category` );
+ALTER TABLE  `phppos_items` ADD INDEX (  `deleted` );
+ALTER TABLE  `phppos_customers` ADD INDEX (  `deleted` );
+ALTER TABLE  `phppos_employees` ADD INDEX (  `deleted` );
+ALTER TABLE  `phppos_giftcards` ADD INDEX (  `deleted` );
+ALTER TABLE  `phppos_item_kits` ADD INDEX (  `name` );
+ALTER TABLE  `phppos_people` ADD INDEX (  `first_name` );
+ALTER TABLE  `phppos_people` ADD INDEX (  `last_name` );
+ALTER TABLE  `phppos_people` ADD INDEX (  `email` );
+ALTER TABLE  `phppos_sales` ADD INDEX (  `deleted` );
+ALTER TABLE  `phppos_suppliers` ADD INDEX (  `deleted` );
+ALTER TABLE  `phppos_receivings` CHANGE  `payment_type`  `payment_type` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_receivings_items` CHANGE  `description`  `description` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_receivings_items` CHANGE  `serialnumber`  `serialnumber` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_sales` CHANGE  `payment_type`  `payment_type` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_sales_suspended` CHANGE  `payment_type`  `payment_type` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_giftcards` CHANGE  `giftcard_number`  `giftcard_number` VARCHAR( 255 ) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL;
+ALTER TABLE  `phppos_sales_items` CHANGE  `description`  `description` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_sales_items` CHANGE  `serialnumber`  `serialnumber` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_sales_suspended_items` CHANGE  `description`  `description` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_sales_suspended_items` CHANGE  `serialnumber`  `serialnumber` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL;
+ALTER TABLE  `phppos_sales_suspended_payments` CHANGE  `payment_type`  `payment_type` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+ALTER TABLE  `phppos_sales_payments` CHANGE  `payment_type`  `payment_type` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;

@@ -1,0 +1,192 @@
+@import 'variables.less';
+
+@left-bar-bg    :#373942;
+
+@Dashboard : #489ee7;
+@Customers : #6fd64b;
+@Items : #fb5d5d;
+@Price_Rules : #9244CC;
+@Item_Kits : #f7941d;
+@Suppliers : #489ee7;
+@Reports : #f7941d;
+@Recievings : #fb5d5d;
+@Sales : #6fd64b;
+@Deliveries : #9244CC;
+@Expenses : #489ee7;
+@Employees: #6fd64b;
+@Gift_Cards : #fb5d5d;
+@Config : #f7941d;
+@Locations : #9244CC;
+@Messages : #489ee7;
+@Timeclocks : #489ee7;
+
+@Default: #489ee7;
+
+.left-bar
+{
+    background-color: @left-bar-bg;
+    .menu-parent
+    {
+			
+         > li
+         {
+             a
+             {
+                color: #969AA7;
+                i
+                {
+                    color: #ADAFB9;
+                }
+             }
+
+             &:hover, &.active
+             {
+                background-color: darken(@left-bar-bg, 10%);
+								border-left: 4px solid @Default;
+								
+								&.home
+								{
+									border-left: 4px solid @Dashboard;
+								}
+								&.customers
+								{
+									border-left: 4px solid @Customers;
+								}
+								&.items
+								{
+									border-left: 4px solid @Items;
+								}
+								&.price_rules
+								{
+									border-left: 4px solid @Price_Rules;
+								}
+								&.item_kits
+								{
+									border-left: 4px solid @Item_Kits;
+								}
+								&.suppliers
+								{
+									border-left: 4px solid @Suppliers;
+								}
+								&.reports
+								{
+									border-left: 4px solid @Reports;
+								}
+								&.receivings
+								{
+									border-left: 4px solid @Recievings;
+								}
+								&.sales
+								{
+									border-left: 4px solid @Sales;
+								}
+								&.deliveries
+								{
+									border-left: 4px solid @Deliveries;
+								}
+								&.expenses
+								{
+									border-left: 4px solid @Expenses;
+								}
+								&.employees
+								{
+									border-left: 4px solid @Employees;
+								}
+								&.giftcards
+								{
+									border-left: 4px solid @Gift_Cards;
+								}
+								&.config
+								{
+									border-left: 4px solid @Config;
+								}
+								&.locations
+								{
+									border-left: 4px solid @Locations;
+								}
+								&.messages
+								{
+									border-left: 4px solid @Messages;
+								}
+								&.timeclocks
+								{
+									border-left: 4px solid @Timeclocks;
+								}
+								
+								
+                
+                -webkit-transition: all 0.1s ease-out;
+                
+                a,i
+                {
+                    color: white !important;
+                }
+             }
+         }
+    }
+}
+
+
+
+/*************************
+  Top Navbar colors  *****/
+
+
+ .top-bar .navbar-default .navbar-nav > .open > a, .top-bar .navbar-default .navbar-nav > .open > a:focus, .top-bar .navbar-default .navbar-nav > .open > a:hover {
+    color: #255CB3;
+}
+
+
+.top-bar
+{
+    background-color: @primary-color;
+}
+
+.navbar-breadcrumb
+{
+    > a
+    {
+        color: white !important;
+    }
+}
+
+.top-bar .navbar-default 
+{
+    margin-left: -1px;
+    border-bottom-width: 0px;
+    //border-left: 1px solid lighten(@primary-color, 10%) !important;
+    .navbar-right.navbar-nav > li > a 
+    {
+        background-color: transparent !important;
+        color: white;
+    }
+}
+
+.top-bar .top-elements .info-number.cart {
+    background-color: white;
+    color: @primary-color;
+}
+
+
+
+
+.left-bar .menu-parent > li, .side-bar .menu-parent > li {
+    display: block;
+    border-bottom: 1px solid @left-bar-bg;
+}
+
+@media only screen and (max-width: 767px) 
+{
+	.top-bar
+	{		
+		.navbar-nav
+		{
+			background-color: @primary-color;;			
+		}
+	}
+}
+
+.menu-bar-mobile .ti-menu
+{
+	color: #fff;
+}

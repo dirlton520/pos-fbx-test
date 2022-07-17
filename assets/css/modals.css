@@ -1,0 +1,94 @@
+/************theme fonts********************/
+/***********************theme colors*****************************/
+/*****************theme parametres*******************/
+/*sidebar-parametres*/
+/************theme fonts********************/
+/***********************theme colors*****************************/
+/****************************************************
+                      bootbox  modals
+****************************************************/
+.bootbox.modal {
+  text-align: center;
+}
+@media screen and (min-width: 768px) {
+  .bootbox.modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+}
+.bootbox .modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+/****************************************************
+                        modals
+****************************************************/
+.modal {
+  z-index: 99999999;
+  border-radius: 6px;
+}
+.modal .modal-content .modal-header {
+  border-radius: 6px;
+  color: #555555;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  line-height: 24px;
+  border-bottom: 1px solid #e9ecf2;
+}
+.modal .modal-content .modal-header span {
+  font-size: 16px;
+}
+.modal .modal-content .modal-body {
+  color: #000;
+  font-family: 'Helvetica Neue', 'Nunito', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.25px;
+  line-height: 24px;
+}
+.modal .modal-content .modal-body .long-modal {
+  width: 100%;
+}
+.modal .modal-content .modal-body .long-modal img {
+  width: 100%;
+  height: auto;
+}
+.modal .modal-content .modal-body .responsive-bottom {
+  padding-bottom: 10px;
+}
+.modal .modal-content .modal-footer {
+  border-top: 1px solid #e9ecf2;
+}
+@media (min-width: 768px) {
+  .modal-full-pad {
+    padding: 20px;
+  }
+  .modal-full-pad .modal-full {
+    width: 100%;
+    margin: 30px auto;
+  }
+}
+.modal-backdrop {
+  background-color: red !important;
+  display: none;
+  opacity: 0.1;
+}
+.modal2.in ~ .modal-backdrop.in {
+  background-color: #f00;
+}
+.modal {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.modal-dialog {
+  width: 700px;
+}
+@media (max-width: 768px) {
+  .modal-dialog {
+    width: auto !important;
+  }
+}

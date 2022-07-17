@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.209",
+        "aws/aws-php-sns-message-validator": "^1.6",
+        "tedicela/sqs-simple": "^0.0.9"
+    }
+}

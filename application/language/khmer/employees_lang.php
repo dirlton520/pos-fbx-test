@@ -1,0 +1,45 @@
+<?php
+
+$lang["employees_new"] = "និយោជិត​ថ្មី";
+$lang["employees_update"] = "បន្ទាន់​សម័យ​និយោជិត";
+$lang["employees_confirm_delete"] = "តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​និយោជិត​ដែល​បាន​ជ្រើស​មែន​ឬ?";
+$lang["employees_none_selected"] = "អ្នក​ពុំ​បាន​ជ្រើសរើស​និយោជិត​ណាមួយ​ដើម្បី​លុប";
+$lang["employees_successful_deleted"] = "អ្នក​បានលុប​ដោយ​ជោគជ័យ";
+$lang["employees_one_or_multiple"] = "និយោជិត";
+$lang["employees_cannot_be_deleted"] = "ពុំ​អាច​លុប​និយោជិត​ដែល​បាន​ជ្រើស​ឡើយ និយោជិត​មួយ ឬ​ច្រើន​បាន​ដំណើរការ​លក់​ ឬ​ អ្នក​កំពុង​ព្យាយាម​លុប​ខ្លួន​អ្នក :)";
+$lang["employees_username_exists"] = "ឈ្មោះ​អ្នក​ប្រើ​នេះ​មាន​រួច​ហើយ";
+$lang["employees_password_required"] = "ទាមទារ​ពាក្យ​សម្ងាត់";
+$lang["employees_basic_information"] = "ព័ត៌មាន​មូលដ្ឋាន​និយោជិត";
+$lang["employees_permission_info"] = "សិទ្ធិ និង ចូល​ដំណើរការ​និយោជិត";
+$lang["employees_permission_desc"] = "ធីកប្រអប់ឬជ្រើសរើសគំរូការអនុញ្ញាតខាងក្រោមដើម្បីផ្តល់សិទ្ធិចូលប្រើម៉ូឌុល";
+$lang["employees_error_deleting_demo_admin"] = "អ្នក​ពុំ​អាច​លុប​អ្នកគ្រប់គ្រង​អ្នកប្រើ​សម្រាប់​បង្ហាញ​បាន​ទេ";
+$lang["employees_duplicate_exists"] = "ឈ្មោះ​និយោជិត​ស្រដៀង​នេះ​មាន​រួច​ហើយ។ តើ​អ្នក​ចង់​បន្ត​ឬ​ទេ?";
+$lang["employees_cleanup_old_customers"] = "សម្អាត​និយោជិត​ចាស់";
+$lang["employees_cleanup_sucessful"] = "សម្អាត​និយោជិត​បាន​ដោយ​ជោគជ័យ";
+$lang["employees_confirm_cleanup"] = "តើ​អ្នក​ប្រាកដ​ជា​ចង់​សម្អាត​និយោជិត​ដែល​បាន​លុប​មែន​ឬ?";
+$lang["employees_one_location_required"] = "និយោជិត​ម្នាក់​យ៉ាងហោចណាស់​ត្រូវការ​ទីតាំង​មួយ";
+$lang["employees_cannot_delete_default_user"] = "អ្នក​ពុំ​អាច​លុបអ្នកប្រើ​លំនាំដើម​បាន​ឡើយ";
+$lang["employees_subject"] = "ប្រធានបទ";
+$lang["employees_force_password_change_upon_login"] = "បង្ខំ​ប្ដូរ​ពាក្យ​សម្ងាត់​ពេល​កត់​ចូល";
+$lang["employees_inactive"] = "អសកម្ម";
+$lang["employees_reason_inactive"] = "មូលហេតុ​ធ្វើ​ឲ្យ​អសកម្ម";
+$lang["employees_termination_date"] = "កាលបរិច្ឆេទ​បញ្ចប់";
+$lang["employees_hire_date"] = "កាលបរិច្ឆេទ​ជួល";
+$lang["employees_birthday"] = "ថ្ងៃកំណើត";
+$lang["employees_required"] = "ទាមទារ​និយោជិត​ម្នាក់​យ៉ាង​តិច";
+$lang["reports_view_all_employee_commissions"] = "មើល​កម្រៃជើងសា​និយោជិត​ទាំងអស់";
+$lang["employees_not_required_to_clock_in"] = "មិន​ទាមទារ​កត់​ម៉ោង​ចូល";
+$lang["employees_always_require_password"] = "ទាមទារ​ពាក្យ​សម្ងាត់​ជានិច្ច​ពេល​ប្ដូរ​អ្នកប្រើប្រាស់";
+$lang["reports_view_dashboard_stats"] = "មើល​ស្ថិតិ​ផ្ទាំង​គ្រប់គ្រង";
+$lang["employees_new_message"] = "សារ​ថ្មី";
+$lang["employees_manage_deleted"] = "គ្រប់គ្រង​និយោជិត​លុប";
+$lang["employees_successful_undeleted"] = "មិន​លុប​និយោជិត​វិញ​បាន​ដោយ​ជោគជ័យ";
+$lang["employees_cannot_be_undeleted"] = "និយោជិត​ពុំ​អាច​មិន​លុប​វិញ";
+$lang["employees_confirm_undelete"] = "តើ​អ្នក​ប្រាកដ​ជា​ចង់​មិន​លុប​បណ្ដា​និយោជិត​ដែល​បាន​ជ្រើស​វិញ​មែន​ឬ?";
+$lang['employees_login_end_time'] = 'អនុញ្ញាតឱ្យចូលពេលវេលាបញ្ចប់';
+$lang['employees_login_start_time'] = 'អនុញ្ញាតឱ្យចូលពេលវេលាចាប់ផ្តើម';
+$lang['permission_templates'] = 'ពុម្ពអនុញ្ញាត';
+$lang['update_all_employees_with_template_assinged'] = 'ធ្វើឱ្យទាន់សម័យនិយោជិកទាំងអស់ជាមួយនឹងគំរូដែលបានកំណត់';
+$lang['employees_enter_ip'] = 'សូមបញ្ចូលជួរ IP ឬ IP (CIDR)';
+$lang['employees_acess_ip_range'] = 'អាស័យដ្ឋាន IP ដែលនិយោជិកអាចចូលបានពី';
+?>

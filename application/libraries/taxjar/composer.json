@@ -1,0 +1,5 @@
+{
+    "require": {
+        "taxjar/taxjar-php": "^1.8"
+    }
+}

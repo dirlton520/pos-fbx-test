@@ -1,0 +1,477 @@
+.jumbotron,
+body,
+html {
+    background-color: #18191a;
+    color: #838aa0
+}
+
+.summary-data p {
+    color: #fff!important
+}
+
+.work_order_status_box,.workorder-badge
+{
+    background-color: #18191a !important;	
+}
+
+#item_kit_items th,
+.close,
+.dashboard-stats .left h4,
+.dropdown-menu>li>a,
+.item-suggestions .suggest-item .name,
+.list-group-item,
+.manage_buttons .buttons-list .dropdown-menu a,
+.modal .modal-content .modal-body,
+.modal .modal-title,
+.modal-item-info .modal-item-details .modal-item-category,
+.nav.nav-wizard>li>a,
+.navbar-breadcrumb>a,
+.opening_bal th,
+.pagination-top a,
+.piluku-tab-content>.tab-pane,
+.quick-actions a i,
+.register .register-items .register-items-holder .register-item-content .register-item-extra-details,
+.register .register-items .register-items-holder .register-item-content .register-item-extra-details a,
+.register .register-items .register-items-holder .register-item-content .register-item-extra-details dt,
+.select2-results .select2-no-results,
+.select2-results .select2-result-selectable .select2-result-label,
+.selectize-input>input,
+.table thead tr th,
+.table>tbody>tr>td,
+.table>thead>tr>td,
+h3,
+.table>tfoot>tr>th,
+.table>tbody>tr>th {
+    color: #abafb4!important
+}
+
+#myTabModalBody .btn-default:hover,
+.control-label,
+.customer-badge.suggestions .details .name,
+.popup_button:hover,
+p,
+#mercury_activate_container .mercury_description {
+    color: #7a88af!important
+}
+
+.control-label,
+.invoice-address li,
+.invoice-address-custom li,
+.invoice-detail li,
+.invoice-detail li span,
+.invoice-footer .invoice-footer-heading,
+.invoice-footer .invoice-footer-value,
+.invoice-policy,
+.invoice-table .invoice-head,
+.invoice-table-content .category-heading,
+.invoice-table-content .invoice-content,
+.invoice-table-content .invoice-content .invoice-desc,
+.item-kits-heading,
+.register .register-summary .payments .value,
+.selectize-dropdown .active {
+    color: #919cbb!important
+}
+
+.form-control,
+.register .register-items-form .item-form .input-group .add-item-input,
+.register .register-right .customer-form .input-group .add-customer-input,
+.register-items-form .item-form .input-group #item,
+.select2-container .select2-choice,
+.select2-container-multi .select2-choices,
+.select2-search input,
+.selectize-input,
+ul.token-input-list-facebook,
+ul.token-input-list-facebook li input {
+    font-size: 13px!important;
+    border: 1px solid #3a3b3c!important;
+    color: #e4e4e4!important;
+    background-color: #3a3b3c!important;
+    background: #3a3b3c!important
+}
+
+#item_kit_form .form-group .input-group .input-group-btn .btn,
+#myTab,
+#sales_page_holder,
+.cal_cell_start_today,
+.col-config-dropdown .dropdown-header,
+.content,
+.invoice-table,
+.item-suggestions,
+.jsgrid-grid-header,
+.manage_buttons,
+.modal .modal-content .modal-header,
+.modal-content,
+.modal-header#myTabHeader,
+.nav-wizard>li>a,
+.progress,
+.select2-drop,
+.thumbnail,
+.ui-widget-content,
+.well {
+    background-color: #18191a!important;
+    background: #18191a!important;
+    border: solid 1px #18191a
+}
+
+#keyboardhelp,
+#unpaid_sales_data td,
+.customer-badge,
+.customer-badge.suggestions .suggest-item:hover,
+.dashboard-stats,
+.dropdown-menu,
+.dropdown-menu.sales-dropdown,
+.flip-container .front,
+.item-suggestions:hover,
+.jumbotron .well,
+.kt-portlet,
+.left-bar,
+.list-group-item,
+.manage-row-options .email_buttons,
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover,
+.panel,
+.panel-piluku,
+.popover .popover-content,
+.primarybg-info,
+.register .register-box,
+.register .register-items .register-items-holder tr.register-item-details:hover+tr,
+.register-grid .register-holder.categories-holder,
+.register-grid .register-holder.no-image,
+.register-grid .register-holder.tags-holder,
+.select2-results .select2-result-selectable.select2-highlighted,
+.selectize-control.multi .selectize-input>div,
+.selectize-dropdown .active,
+.table .table,
+.top-bar,
+.top-bar .top-elements .dropdown .dropdown-menu,
+.top-bar .top-elements .dropdown .dropdown-menu.avatar_drop .logout_button {
+    background: #242526;
+    background-color: #242526!important
+}
+
+#item_kit_items th,
+#report_selection .list-group a.list-group-item,
+.dropdown-menu,
+.flip-container .front,
+.list-group-item,
+.piluku-dropdown .dropdown-menu,
+.register .register-box,
+.register-grid .register-holder.categories-holder,
+.register-grid .register-holder.no-image,
+.register-grid .register-holder.tags-holder,
+.report-listing .list-group a.list-group-item,
+.report-listing .list-group a.list-group-item,
+.table-bordered>tbody>tr>th {
+    border: solid 1px #3a3b3c
+}
+
+.quick-actions a i {
+    border-right: 1px solid #aeb4ce
+}
+
+.manage-row-options .email_buttons,
+.table>tbody>tr>td,
+li.item-suggestions.ui-menu-item {
+    border-bottom: 1px solid #18191a!important
+}
+
+.page-header,
+.table>thead>tr>th {
+    border-bottom: solid 1px #404c56
+}
+
+#category_tree ul li:hover>ul,
+.dropdown-menu>li>a:hover,
+.piluku-dropdown .dropdown-menu li a:hover,
+.quick-actions a:hover,
+.register .register-items .register-items-holder tr.register-item-details:hover,
+.report-listing .list-group a.list-group-item:hover,
+.table-hover>tbody>tr:hover,
+.top-bar .top-elements .dropdown .dropdown-menu.avatar_drop .logout_button:hover,
+.top-bar .top-elements .dropdown .dropdown-menu.avatar_drop li:hover,
+.top-bar .top-elements .dropdown .dropdown-menu.message_drop li:hover,
+.top-bar .top-elements .dropdown .dropdown-menu.neat_drop a:hover,
+.ui-menu .ui-menu-item a.ui-state-focus {
+    background: #393a3b!important
+}
+
+.table-hover>tbody>tr:hover,
+td.selected,
+tr:hover td {
+    background: #1e272f!important
+}
+
+.left-bar li {
+    color: #393a3b;
+    background-color: none
+}
+
+.jsgrid-header-row>.jsgrid-header-cell,
+.manage-table .panel-heading,
+.panel-piluku>.panel-heading {
+    background-color: #3a3b3c!important;
+    border-bottom: solid 1px #404c56
+}
+
+.panel-heading.hidden-print {
+    background-color: #242526!important
+}
+
+#employee_form .panel-body .panel-piluku>.panel-heading,
+.editable-container .popover-title,
+.register-items-header,
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #18191a!important;
+    border: none!important
+}
+
+#reset_to_default,
+.modal-content .nav-tabs.nav-justified>li>a,
+.panel-piluku,
+.popover,
+.register .register-box,
+.register .register-items-form .item-form .input-group #item.items-count,
+.register .register-items-form .item-form .input-group #item:focus,
+.register .register-right .customer-form .input-group .add-customer-input:focus,
+.register .register-summary .add-payment-form.input-group .add-input:focus,
+.register-right .customer-form .input-group #supplier:focus {
+    border: none!important
+}
+
+#reset_to_default:hover,
+.popover,
+.select2-results .select2-no-results {
+    background: 0 0!important
+}
+
+.btn-default.active,
+.btn-grid.active,
+.btn-primary,
+.nav-tabs.nav-justified>.active>a,
+.nav-wizard>li.active>a,
+.nav-wizard>li.active>a:focus,
+.nav-wizard>li.active>a:hover,
+.piluku-tabs>li.active a,
+.register .register-right .customer-form .input-group .input-group-addon i,
+.register .register-summary .add-payment .select-payment.active,
+.table_buttons .dropdown-toggle {
+    background-color: #2d88ff!important;
+    color: #fff!important
+}
+
+.input-group .input-group-addon,
+.opening_bal td,
+.opening_bal th,
+.selectize-input,
+.table_buttons .dropdown-toggle,
+.table_buttons .edit_action {
+    border: none!important
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+    background-color: #131c23
+}
+
+.config-panel tr:hover td,
+.manage-table tr:hover td {
+    background: #060d19!important
+}
+
+.select2-container .select2-choice .select2-arrow,
+.selectize-control.single .selectize-input.input-active,
+.selectize-input {
+    background: 0 0!important
+}
+
+.btn-green {
+    background-color: #4caf50
+}
+
+.register .paper-cut:after {
+    background: -webkit-linear-gradient(#242526 0, transparent 0), -webkit-linear-gradient(135deg, #18191a 33.33%, transparent 33.33%) 0 0, #18191a -webkit-linear-gradient(45deg, #18191a 33.33%, #242526 33.33%) 0 0;
+    background: -o-linear-gradient(#fff 0, transparent 0), -o-linear-gradient(135deg, #e9ebee 33.33%, transparent 33.33%) 0 0, #e9ebee -o-linear-gradient(45deg, #e9ebee 33.33%, #fff 33.33%) 0 0;
+    background: -moz-linear-gradient(#fff 0, transparent 0), -moz-linear-gradient(135deg, #e9ebee 33.33%, transparent 33.33%) 0 0, #e9ebee -moz-linear-gradient(45deg, #e9ebee 33.33%, #fff 33.33%) 0 0;
+    background-repeat: repeat-x;
+    background-size: 0 100%, 14px 27px, 14px 27px
+}
+
+.selectize-control.multi .selectize-input>div {
+    background-color: #2d88ff;
+    color: #fff
+}
+
+.btn-default,
+.btn-grid,
+.manage_buttons .buttons-list .dropdown-toggle,
+.pagination>.disabled>a,
+.piluku-tabs>li a,
+.popup_button,
+.register .register-right .customer-badge .details .btn-edit,
+.register .register-right .sale-buttons .btn-more,
+.register .register-summary .add-payment .btn-pay,
+.table_buttons .dropdown-toggle,
+.table_buttons .edit_action,
+.table_buttons .expand-collapse {
+    background-color: #393a3b!important;
+    border: 1px solid #393a3b!important;
+    color: #e4e6eb
+}
+
+#myTabModalBody .btn-default,
+.pagination-top a,
+.table_buttons .expand-collapse {
+    background-color: #242526!important
+}
+
+.calendar,
+.dropdown-menu.sales-dropdown,
+.table-bordered>thead>tr>td,
+.table-bordered>thead>tr>th,
+.ui-widget-content {
+    border: 1px solid #393a3b!important
+}
+
+#barcode_form .form-group .form-control,
+#item_kit_form input,
+#tax_form input,
+.select2-drop-active,
+.table_buttons .dropdown-toggle,
+.table_buttons .edit_action {
+    border: 1px solid #18191a!important
+}
+
+.customer-badge,
+.dropdown-menu.sales-dropdown li a,
+.kt-portlet .kt-portlet__head,
+.left-bar .menu-parent>li,
+.modal-content .modal-header,
+.piluku-dropdown .dropdown-menu li a,
+.piluku-tabs,
+.register .register-right .customer-badge,
+.register .register-right .sale-buttons,
+.top-bar .top-elements .dropdown .dropdown-menu.avatar_drop li,
+.top-bar .top-elements .dropdown .dropdown-menu.message_drop li,
+.ui-menu .ui-menu-item a {
+    border-bottom: 1px solid #3a3b3c!important
+}
+
+.invoice-table-content,
+.kt-widget1 .kt-widget1__item,
+.kt-widget16 .kt-widget16__items .kt-widget16__item {
+    border-bottom: .07rem dashed #3a3b3c!important
+}
+
+.btn-default:hover,
+.close-amount li,
+.customer-recent-sales .modal-content,
+.jsgrid-cell,
+.jsgrid-grid-body,
+.table-bordered>tbody>tr>td,
+.table-bordered>thead>tr>td {
+    border: 1px solid #3a3b3c!important
+}
+
+.nav-wizard.nav-progression>li.active>a:after {
+    border-left-color: #2d88ff!important
+}
+
+.nav-wizard.nav-progression>li:not(:first-child)>a:before {
+    border-left: 20px solid #242526
+}
+
+.nav-wizard.nav-progression>li:not(:last-child)>a:after {
+    border-left: 20px solid #18191a
+}
+
+.popover.top>.arrow:after,
+hr {
+    border-top-color: #3a3b3c
+}
+
+.register .register-right .customer-action-buttons a {
+    border-right: 1px solid #3a3b3c
+}
+
+.select2-drop-active,
+.selectize-dropdown,
+.selectize-dropdown.form-control {
+    box-shadow: 0 2px 5px #000
+}
+
+#reset_to_default:hover,
+.register .register-summary .item-tiers a:hover,
+.register .register-summary .select-sales-persons a:hover {
+    color: #489ee7!important
+}
+
+.jsgrid-row>.jsgrid-cell {
+    background: #18191a
+}
+
+.jsgrid-alt-row>.jsgrid-cell {
+    background: #242526
+}
+
+.jsgrid-header-row>.jsgrid-header-cell {
+    border: 1px solid #242526
+}
+
+#save_custom_fields .form-group .form-control, #braintree_checkout_form,#stripe_checkout_form .form-control {
+    border: solid 1px #242526 !important;
+}
+
+
+/* Pagination */
+
+.pagination.alternate a {
+    background-color: #3a3b3c !important;
+}
+
+.pagination.alternate strong {
+    background: #242526 !important;
+}
+
+.pagination.alternate a:hover {}
+
+@media print {
+    .content,
+    .panel-piluku,
+    .panel-piluku>.panel-heading,
+    .primarybg-info,
+    body,
+    html {
+        background: #fff!important;
+        background-color: #fff!important
+    }
+    .content {
+        border: none
+    }
+    .table>tbody>tr>td,
+    .table>thead>tr>td,
+    p,
+    .table thead tr th, .control-label, .invoice-address li, .invoice-address-custom li, .invoice-detail li, 
+    .invoice-detail li span, .invoice-footer .invoice-footer-heading, .invoice-footer .invoice-footer-value, 
+    .invoice-policy, .invoice-table .invoice-head, .invoice-table-content .category-heading, .invoice-table-content 
+    .invoice-content, .invoice-table-content .invoice-content .invoice-desc, .item-kits-heading, 
+    .register .register-summary .payments .value, .selectize-dropdown .active {
+        color: #000!important
+    }
+    .table-bordered>tbody>tr>td,
+    .table-bordered>thead>tr>td,
+    .table-bordered>thead>tr>th,{
+        border: 1px solid #e9ecf2!important
+    }
+    .table thead tr th,
+    .table tbody tr td {
+        padding: 3px !important;
+    }
+    #receipt_wrapper_inner .invoice-table {
+        background: none !important;
+        border:none !important;
+    }
+    .invoice-table-content {
+        border-bottom: 1px solid #000 !important; 
+    }
+}

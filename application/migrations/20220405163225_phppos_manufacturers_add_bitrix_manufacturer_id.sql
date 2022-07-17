@@ -1,0 +1,1 @@
+ALTER TABLE `phppos_manufacturers` ADD `bitrix_manufacturer_id` INT(10) NULL AFTER `name`; 

@@ -1,0 +1,33 @@
+.jqbtk-row  {
+	text-align: center !important;
+}
+.jqbtk-container .btn {
+	font-size: 1.8em !important;
+	width: 3em !important;
+	height: 3em !important;
+	text-align: center;
+	margin: 2px !important;
+}
+.jqbtk-container .jqbtk-space {
+	width: 12em !important;
+}
+.jqbtk-container .jqbtk-shift {
+	width: 4.4em !important;
+}
+.jqbtk-container .jqbtk-enter {
+	width: 4em !important;
+}
+.jqbtk-container .jqbtk-abc123 {
+	width: 4em !important;
+}
+.popover {
+	max-width: 800px !important;
+	z-index: 9999999999999999999999999 !important;
+}
+
+.jqbtk-container .btn.no-hover:hover
+{
+  background-color: #ffffff !important;
+  border: 1px solid #d7dce5 !important;
+  color: #000000 !important;
+}

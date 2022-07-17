@@ -1,0 +1,28 @@
+@import 'variables.less';
+table{
+	border: none;
+}
+.calendar {
+	border-color:#dce1ea;
+	
+	tr td:first-child, tr th:first-child
+	{
+		border-left: none;
+	}
+	
+	tr td:last-child, tr th:last-child
+	{
+		border-right: none;
+	}
+	
+	tr:last-child td {
+		border-bottom: none;
+	}
+	
+	.heading_previous_cell, .heading_title_cell, .heading_next_cell {
+		border-top: none;
+	}
+	.week_day_cell{
+		width: 14.2857142857%;
+	}
+}

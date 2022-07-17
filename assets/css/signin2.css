@@ -1,0 +1,157 @@
+/************theme fonts********************/
+/***********************theme colors*****************************/
+/*****************theme parametres*******************/
+/*sidebar-parametres*/
+/************theme fonts********************/
+/***********************theme colors*****************************/
+html,
+body {
+  overflow-x: visible !important;
+  overflow-y: visible !important;
+  background: #e9ebee;
+}
+.flip-container {
+  width: 520px;
+  margin: 0 auto;
+  margin-top: 70px;
+  min-height: 400px;
+  position: relative;
+}
+.flip-container .front {
+  width: 520px;
+  padding: 30px;
+  height: 100%;
+  background-color: #FFFFFF;
+  clear: both;
+  display: table;
+  border-radius: 3px;
+  border: 1px solid #d7dce5;
+}
+.flip-container .front,
+.flip-container .back {
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.flip-container .holder input {
+  background: transparent;
+  margin-top: 20px;
+  height: 50px;
+  border-radius: 3px;
+  -webkit-appearance: none;
+}
+.flip-container .bottom_info {
+  margin-top: 30px;
+  position: relative;
+}
+.flip-container .bottom_info a {
+  text-decoration: none;
+  color: #555555;
+  outline: none;
+}
+.flip-container .bottom_info a:hover {
+  color: #489ee7;
+}
+.flip-container .bottom_info #spin {
+  font-size: 20px;
+}
+.flip-container .btn {
+  height: 40px;
+  font-size: 16px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  line-height: 40px;
+  padding: 0;
+}
+.flip-container .btn.btn-sm {
+  height: 30px;
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 13px !important;
+  text-transform: capitalize;
+  letter-spacing: 0.5px !important;
+  line-height: 20px;
+}
+.flip-container .heading {
+  text-align: center;
+  color: white;
+  background-color: #489ee7;
+  margin: -30px;
+  margin-bottom: 30px;
+}
+.flip-container .heading img {
+  max-width: 160px;
+  height: auto;
+  margin: 20px;
+}
+.flip-container .version {
+  text-align: center;
+}
+.flip-container .version p {
+  margin: 15px auto;
+}
+.flip-container .version .subscription p {
+  color: #df6c6e;
+}
+.flip-container .version .subscription .btn {
+  padding: 1px 10px;
+}
+.modal .modal-title {
+  color: #555555;
+  font-size: 16px;
+}
+.modal h6.note {
+  margin-top: 30px;
+  color: #555555;
+  color: #fb5d5d;
+}
+.modal .modal-footer {
+  border-top-width: 0 !important;
+}
+.modal .btn {
+  margin-top: 0;
+  border-radius: 3px;
+  height: 35px;
+  font-size: 14px;
+}
+@media only screen and (max-width: 500px) {
+  .flip-container {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .flip-container .front {
+    width: 100%;
+    padding: 5px 10px;
+  }
+}
+.msg-demo {
+  padding: 0px;
+  background-color: white;
+  border-width: 0px;
+  border-bottom: 1px solid #d7dce5;
+}
+.msg-demo h3 {
+  margin-top: 0px;
+  line-height: 52px;
+  color: #489ee7;
+  font-size: 20px;
+}
+.form-control::-moz-placeholder {
+  color: #bbb !important;
+}
+.form-control:-ms-input-placeholder {
+  color: #bbb !important;
+}
+.form-control::-webkit-input-placeholder {
+  color: #bbb !important;
+}
+@media only screen and (max-width: 500px) {
+  .login-logo img {
+    width: auto;
+    height: auto;
+  }
+  .heading {
+    margin: -30px -10px 30px -10px !important;
+  }
+}

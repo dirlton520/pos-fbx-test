@@ -1,0 +1,28 @@
+{
+  "name": "taxjar/taxjar-php",
+  "description": "Sales Tax API Client for PHP 5.5+",
+  "keywords": [
+    "taxjar",
+    "sales tax",
+    "api"
+  ],
+  "homepage": "https://www.taxjar.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "TaxJar"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "guzzlehttp/guzzle": "^6.0.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*",
+    "internations/http-mock": "0.10.1",
+    "silex/silex": "2.2.2"
+  },
+  "autoload": {
+    "psr-4": { "TaxJar\\" : "lib/" }
+  }
+}
